@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <!--    group will have a shadow when you click it-->
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_pain_data_entry"
+            android:title="Pain Data Entry" />
+        <item
+            android:id="@+id/nav_daily_record"
+            android:title="Daily Record" />
+        <item
+            android:id="@+id/nav_reports"
+            android:title="Reports" />
+        <item
+            android:id="@+id/nav_maps"
+            android:title="Maps" />
+    </group>
+</menu>

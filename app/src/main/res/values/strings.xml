@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MobilePainDiary</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiamVyZW15MjAyMSIsImEiOiJja28xNG1tdDkwMWgyMm9vOXpqZndpdmIzIn0.WoOIJphEF9G5VwIOvC6XOA</string>
+</resources>
